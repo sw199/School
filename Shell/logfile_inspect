@@ -6,8 +6,8 @@
 #       This bash script will use various prompts on the terminal in order to guide the           #
 #           user through the file system to inspect log files. This script and its few             #
 #           options will work on all text-based files anywhere on the filesystem.                 #
-#           This script is made with separate functions in order to eaily scale                   #
-#           up, and include any file opporation as needed.                                        #
+#           This script is made with separate functions in order to easily scale                   #
+#           up, and include any file operation as needed.                                        #
 #                                                                                                 #
 #-------------------------------------------------------------------------------------------------#
 
